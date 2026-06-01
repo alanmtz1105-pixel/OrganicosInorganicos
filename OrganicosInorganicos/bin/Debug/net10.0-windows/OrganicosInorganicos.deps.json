@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "OrganicosInorganicos/1.0.0": {
+        "runtime": {
+          "OrganicosInorganicos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrganicosInorganicos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

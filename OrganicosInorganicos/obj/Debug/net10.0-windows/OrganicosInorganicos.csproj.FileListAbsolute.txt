@@ -1,0 +1,17 @@
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\bin\Debug\net10.0-windows\OrganicosInorganicos.exe
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\bin\Debug\net10.0-windows\OrganicosInorganicos.deps.json
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\bin\Debug\net10.0-windows\OrganicosInorganicos.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\bin\Debug\net10.0-windows\OrganicosInorganicos.dll
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\bin\Debug\net10.0-windows\OrganicosInorganicos.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\obj\Debug\net10.0-windows\OrganicosInorganicos.Form1.resources
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\obj\Debug\net10.0-windows\OrganicosInorganicos.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\obj\Debug\net10.0-windows\OrganicosInorganicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\obj\Debug\net10.0-windows\OrganicosInorganicos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\obj\Debug\net10.0-windows\OrganicosInorganicos.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\obj\Debug\net10.0-windows\OrganicosInorganicos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\obj\Debug\net10.0-windows\OrganicosInorganicos.dll
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\obj\Debug\net10.0-windows\refint\OrganicosInorganicos.dll
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\obj\Debug\net10.0-windows\OrganicosInorganicos.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\obj\Debug\net10.0-windows\OrganicosInorganicos.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\obj\Debug\net10.0-windows\ref\OrganicosInorganicos.dll
+C:\Users\LENOVO\OneDrive\Escritorio\PERRRRRRO\OrganicosInorganicos\obj\Debug\net10.0-windows\OrganicosInorganicos.Properties.Resources.resources
